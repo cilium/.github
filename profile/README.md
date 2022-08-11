@@ -26,7 +26,7 @@ Cilium has hundreds of [adopters](https://cilium.io/adopters) around the world i
 
 ### Tetragon
 
-Tetragon enables powerful realtime, eBPF-based Security Observability and Runtime Enforcement. Tetragon detects and is able to react to security-significant events, such as:
+[Tetragon](https://github.com/cilium/tetragon) enables powerful realtime, eBPF-based Security Observability and Runtime Enforcement. Tetragon detects and is able to react to security-significant events, such as:
 
 
 
