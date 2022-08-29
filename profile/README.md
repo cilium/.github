@@ -16,7 +16,7 @@ Cilium is used to provide and transparently secure network connectivity and load
 
 Cilium has hundreds of [adopters](https://cilium.io/adopters) around the world including Bell Canada, Capital One, Google, The New York Times, and Yahoo. If you are using Cilium, [add yourself](https://github.com/cilium/cilium/blob/master/USERS.md) to the list today!
 
-<img src="https://camo.githubusercontent.com/714c5d777b0025dda66b46f14e28badc01e3e3360ef264be204f54846a7c9573/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f63696c69756d2f63696c69756d406d61737465722f446f63756d656e746174696f6e2f696d616765732f63696c69756d5f6f766572766965772e706e67" alt="Cilium overview diagram" width="800">
+<img src="https://github.com/cilium/cilium/blob/master/Documentation/images/cilium-overview.png" alt="Cilium overview diagram" width="800">
 
 ### Hubble
 
