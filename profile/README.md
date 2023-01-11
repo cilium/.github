@@ -38,6 +38,8 @@ When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, i
 
 <img src="https://github.com/cilium/tetragon/raw/main/docs/images/smart_observability.png" alt="Tetragon Overview Diagram" width="800">
 
+As described in the [roadmap](https://docs.cilium.io/en/latest/community/roadmap/), Tetragon is still considered Beta level software. We would love your feedback on Tetragon to help it mature. 
+
 ### Community
 
 Cilium is an open source project that anyone in the community can use, improve, and enjoy. Over 400 people have already contributed to the Cilium project and [you can too](https://docs.cilium.io/en/stable/contributing/development/contributing_guide/). We'd love you to join us! Here's a few ways to find out what's happening and get involved:
