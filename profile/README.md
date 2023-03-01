@@ -46,7 +46,7 @@ Cilium is an open source project that anyone in the community can use, improve, 
 
 Join the [Cilium workspace on Slack](https://cilium.herokuapp.com/)
 
-Follow [Cilium on Twitter](https://twitter.com/ciliumproject?lang=de)
+Follow Cilium on [Twitter](https://twitter.com/ciliumproject?lang=de) and [LinkedIn](https://www.linkedin.com/company/cilium/)
 
 Subscribe to [the newsletter](https://cilium.io/newsletter)
 
