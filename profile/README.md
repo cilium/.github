@@ -36,7 +36,7 @@ Cilium has hundreds of [adopters](https://cilium.io/adopters) around the world i
 
 When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, it understands Kubernetes identities such as namespaces and pods - so that security event detection can be configured for specific individual workloads.
 
-<img src="https://github.com/cilium/tetragon/raw/main/docs/images/smart_observability.png" alt="Tetragon Overview Diagram" width="800">
+<img src="https://github.com/cilium/tetragon/raw/main/docs/static/images/smart_observability.png" alt="Tetragon Overview Diagram" width="800">
 
 As described in the [roadmap](https://docs.cilium.io/en/latest/community/roadmap/), Tetragon is still considered Beta level software. We would love your feedback on Tetragon to help it mature. 
 
