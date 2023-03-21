@@ -8,7 +8,7 @@
 
 
 
-[Cilium](https://cilium.io/) is an open source software for providing, securing and observing network connectivity between container workloads - cloud native, and fueled by the revolutionary Kernel technology [eBPF](https://ebpf.io/). Cillium provides eBPF-based Networking, Observability, and Security.
+[Cilium](https://cilium.io/) is an open source, cloud native solution for providing, securing and observing network connectivity between workloads, fueled by the revolutionary Kernel technology [eBPF](https://ebpf.io/).
 
 ### Cilium
 
