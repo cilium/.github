@@ -14,15 +14,15 @@
 
 Cilium is used to provide and transparently secure network connectivity and load balancing between application workloads such as application containers, processes, or VMs. Cilium operates at Layer 3/4 to provide traditional networking and security services as well as Layer 7 to protect and secure use of modern application protocols such as HTTP, gRPC, and Kafka. Cilium is a part of the [Cloud Native Computing Foundation](https://www.cncf.io/) and is their most advanced and widely used CNI for Kubernetes. Check out the [Getting Started Guides](https://docs.cilium.io/en/stable/gettingstarted/) to try it out.
 
-Cilium has hundreds of [adopters](https://cilium.io/adopters) around the world including Bell Canada, Capital One, Google, The New York Times, and Yahoo. If you are using Cilium, [add yourself](https://github.com/cilium/cilium/blob/master/USERS.md) to the list today!
+Cilium has hundreds of [adopters](https://cilium.io/adopters) around the world including Bell Canada, Capital One, Google, The New York Times, and Yahoo. If you are using Cilium, [add yourself](https://github.com/cilium/cilium/blob/main/USERS.md) to the list today!
 
-<img src="https://github.com/cilium/cilium/blob/master/Documentation/images/cilium-overview.png" alt="Cilium overview diagram" width="800">
+<img src="https://github.com/cilium/cilium/blob/main/Documentation/images/cilium-overview.png" alt="Cilium overview diagram" width="800">
 
 ### Hubble
 
 [Hubble](https://github.com/cilium/hubble) is a fully distributed networking and security observability platform for cloud native workloads. It is built on top of [Cilium](https://github.com/cilium/cilium) and [eBPF](https://ebpf.io/) to enable deep visibility into the communication and behavior of services as well as the networking infrastructure in a completely transparent manner. Hubble helps teams understand service dependencies and communication maps, operational monitoring and alerting, application monitoring, and security observability.
 
-<img src="https://github.com/cilium/hubble/raw/master/Documentation/images/hubble_arch.png" alt="Hubble overview diagram" width="800">
+<img src="https://github.com/cilium/hubble/raw/main/Documentation/images/hubble_arch.png" alt="Hubble overview diagram" width="800">
 
 ### Tetragon
 
