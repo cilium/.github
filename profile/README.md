@@ -48,6 +48,8 @@ Join the [Cilium workspace on Slack](https://cilium.herokuapp.com/)
 
 Follow Cilium on [Twitter](https://twitter.com/ciliumproject?lang=de) and [LinkedIn](https://www.linkedin.com/company/cilium/)
 
+Check [Good First Issues](https://github.com/orgs/cilium/projects/3/views/1) for starting to contribute
+
 Subscribe to [the newsletter](https://cilium.io/newsletter)
 
 Subscribe to the [eBPF and Cilium Community on Youtube](https://www.youtube.com/channel/UCJFUxkVQTBJh3LD1wYBWvuQ)
