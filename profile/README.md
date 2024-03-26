@@ -4,7 +4,7 @@
 [![Sign-up](https://img.shields.io/static/v1?label=Sign-up&message=for%20news&color=red)](https://cilium.io/newsletter)
 [![Contributing](https://img.shields.io/static/v1?label=Contributing&message=Guide&color=brightgreen)](https://cilium.io/get-involved)
 [![Roadmap](https://img.shields.io/static/v1?label=Roadmap&message=public&color=blueviolet)](https://docs.cilium.io/en/latest/community/roadmap/)
-[![Governance](https://img.shields.io/static/v1?label=Governance&message=and%20Maintainers&color=yellow)](https://docs.cilium.io/en/stable/contributing/governance/)
+[![Governance](https://img.shields.io/static/v1?label=Governance&message=and%20Maintainers&color=yellow)](https://github.com/cilium/community/blob/main/GOVERNANCE.md)
 
 
 
