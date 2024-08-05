@@ -42,7 +42,7 @@ When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, i
 
 Cilium is an open source project that anyone in the [community](https://github.com/cilium/community) can use, improve, and enjoy. Over 700 people have already contributed to the Cilium project and you can too. We'd love you to join us! Here's a few ways to find out what's happening and get involved:
 
-Join the [Cilium workspace on Slack](https://cilium.herokuapp.com/)
+Join the [Cilium workspace on Slack](https://slack.cilium.io)
 
 Follow Cilium on [Twitter](https://twitter.com/ciliumproject?lang=de) and [LinkedIn](https://www.linkedin.com/company/cilium/)
 
