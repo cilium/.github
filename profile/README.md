@@ -44,7 +44,7 @@ Cilium is an open source project that anyone in the [community](https://github.c
 
 Join the [Cilium workspace on Slack](https://slack.cilium.io)
 
-Follow Cilium on [Twitter](https://twitter.com/ciliumproject?lang=de) and [LinkedIn](https://www.linkedin.com/company/cilium/)
+Follow Cilium on [Bluesky](https://bsky.app/profile/cilium.io), [LinkedIn](https://www.linkedin.com/company/cilium/), [Mastodon](https://fosstodon.org/@cilium), and [Reddit](https://www.reddit.com/r/cilium/)
 
 Discover the [Cilium Project Vision](https://github.com/cilium/community/blob/main/VISION.md) and our [Community Values](https://github.com/cilium/community/blob/main/VALUES.md)
 
